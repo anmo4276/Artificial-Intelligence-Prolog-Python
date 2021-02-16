@@ -1,4 +1,4 @@
-Artificial Intelligence (COMP 3411) - University of New South Wales, Syndey, Australia
+Artificial Intelligence - University of New South Wales, Syndey, Australia
 -------------------------
 Artificial Intelligence is concerned with the design and construction of computer systems that "think". This course will introduce students to the main ideas and approaches in AI - including agent architectures, Prolog programming, search techniques, knowledge representation and reasoning, machine learning, natural language processing, logical inference and robotics.
 
